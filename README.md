@@ -2,6 +2,8 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2AF72E&width=435&lines=Programmer;Robotics;Cybersecurity;Photographer)](https://git.io/typing-svg)
+
+
 I'm a 16 year old Robotics, cybersecurity enthusiast & high school science student from India. 
 I enjoy working with frameworks like Python and crafting beautiful 3D designs and Circuits. Programming is my hobby, which eventually became my passion.
 I mostly code in Python, C++. I love working on automation, APIs & robots. I love to build bots, Robots, useless projects and apps!
