@@ -21,10 +21,9 @@ I love solving maths, exploring physics and watching anime apart from playing wi
 ## Get In Touch
 
 
-- Instagram[@its_me.shreymehra](https://instagram.com/its_me.shreymehra)             
-- Email [shrey.codethetech@gmail.com](mailto:shrey.codethetech@gmail.com)
+- Instagram[@shrey.hi](https://instagram.com/shrey.hi)             
+- Email [contact@shrey.trying.cloud](mailto:contact@shrey.trying.cloud)
 - Discord : [Shrey Mehra #7819](https://discordapp.com/users/ShreyMehra#7819)
-- Buy me a Coffee [Shrey Mehra](https://www.buymeacoffee.com/shreymhr)
 ---
 
-Feel free to follow me to see what I create, fork or star!
+Feel free to follow me to see what I create, fork, or star!
