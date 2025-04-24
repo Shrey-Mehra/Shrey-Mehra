@@ -19,7 +19,7 @@ My ultimate goal is to become a robotics developer, cybersecurity professional, 
 
 
 - Instagram[@shrey.hi](https://instagram.com/shrey.hi)             
-- Email [contact@shrey.trying.cloud](mailto:contact@shrey.trying.cloud)
+- Email [contact@shreymehra.dev](mailto:contact@shreymehra.dev)
 - Discord : [Shrey Mehra #7819](https://discordapp.com/users/ShreyMehra#7819)
 ---
 
