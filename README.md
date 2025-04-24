@@ -4,10 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2AF72E&width=435&lines=Programmer;Robotics;Cybersecurity;Photographer)](https://git.io/typing-svg)
 
 
-I am an 18-year-old robotics and cybersecurity enthusiast, as well as a high school science student from India. My passion for technology started as a hobby and quickly evolved into something much greater. I love working with Python frameworks, designing intricate 3D models, and crafting circuits that bring ideas to life.
-I primarily code in Python and C++, strongly inclined toward automation, APIs, and robotics. Whether it's building bots, robots, innovative apps, or even "useless projects" just for fun, I enjoy pushing the boundaries of creativity and functionality. As a dedicated Linux and open-source advocate, I contribute to and maintain various open-source projects on GitHub whenever possible.
-My ultimate goal is to become a robotics developer, cybersecurity professional, or entrepreneur. At present, I am balancing my studies, life, and academic pursuits while continuously learning and innovating in the tech space. 
-
+Hey there! I’m Shrey, an 18-year-old high school science student from India with a big passion for robotics, cybersecurity, and building cool tech. What started as a hobby—messing around with code—quickly turned into something I genuinely love. I mainly work with Python and C++, and I enjoy creating everything from bots and automation tools to full-blown apps and electronics projects. I also love diving into APIs, participating in CTF competitions, and contributing to open-source whenever I can. When I’m not busy with school or projects, I’m usually experimenting with new ideas, learning something hands-on, or thinking up my next build. In the long run, I hope to grow into a robotics engineer, cybersecurity expert, or maybe even an entrepreneur.
 
 
 
